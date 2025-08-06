@@ -245,6 +245,7 @@ Semua perintah ini bisa langsung kamu gunakan di terminal selama kamu berada di 
 
 Kalau kamu butuh versi *ringkas* untuk laporan/tugas atau butuh dibantu buatkan file `root-ca.conf`, `signing-ca.conf`, dsb, tinggal bilang.
 
+'''bash
 1. Domain Component         (eg, com)       []:org
 2. Domain Component         (eg, company)   []:simple
 3. Domain Component         (eg, pki)       []:
@@ -252,3 +253,4 @@ Kalau kamu butuh versi *ringkas* untuk laporan/tugas atau butuh dibantu buatkan 
 5. Organizational Unit Name (eg, section)   []:
 6. Common Name              (eg, full name) []:Fred Flintstone
 7. Email Address            (eg, name@fqdn) []:fred@simple.org
+'''
